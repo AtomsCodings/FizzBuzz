@@ -3,7 +3,7 @@ A .Net Console Programming Exercise
 
 I was given this exercise in an interview.  The instructions state:
 
-"Choose one of the problems below and solve it using a C# console....
+"Choose one of the problems below and solve it using a C# console application...
 
 Fizz Buzz
 
