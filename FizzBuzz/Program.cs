@@ -1,17 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿/******************************************************************************************************
+             Instructions for writing this console application:
 
-namespace FizzBuzz
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            /******************************************************************************************************
-             Instructions:
              Write a program that can be given a start and end integer and iterate over every number in that range.
 
              When the number is a multiple of three mark it as Fizz.
@@ -20,7 +9,18 @@ namespace FizzBuzz
 
              The program should show the list to the user when it is done.
 
-           ********************************************************************************************************/
+             Author: A Thomas  Last Updated: 16/03/16
+
+********************************************************************************************************/
+
+using System;
+
+namespace FizzBuzz
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
             int startNo = 0;
             int endNo = 0;
             int i = 0;
